@@ -1,0 +1,29 @@
+:root{
+   --color1: #fff159;
+   
+   --color2: #3483fa;
+   
+}
+
+.bg-color1{
+
+    background-color: var(--color1);
+}
+
+
+.tx-color1{
+    color: var (--color1);
+
+}
+
+
+.bg-color2{
+background-color: #3483fa;
+
+}
+
+
+.tx-color2{
+
+    background-color: #3483fa;
+}
